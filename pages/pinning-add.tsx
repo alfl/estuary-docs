@@ -12,7 +12,7 @@ Add a new pin object for the current access token.
 
 ### Need more information?
 
-Check out the [offical IPFS Pinning documentation](https://ipfs.github.io/pinning-services-api-spec/#tag/pins/paths/~1pins/post). We made sure the follow the standards.
+Check out the [official IPFS Pinning documentation](https://ipfs.github.io/pinning-services-api-spec/#tag/pins/paths/~1pins/post). We made sure the follow the standards.
 
 ### This page is a work in progress
 
